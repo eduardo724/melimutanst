@@ -1,0 +1,42 @@
+2022-02-06 11:13:16,529 INFO c.m.m.b.SearchAdn [main] Inicio 1.64416399652E12 segundos
+2022-02-06 11:13:16,535 INFO c.m.m.b.SearchAdn [main] Palabra CCCC
+2022-02-06 11:13:16,535 INFO c.m.m.b.SearchAdn [main] Palabra GGGG
+2022-02-06 11:13:16,536 INFO c.m.m.b.SearchAdn [main] es mutante
+2022-02-06 11:15:52,771 INFO c.m.m.b.SearchAdn [main] Inicio 1.644164152765E12 segundos
+2022-02-06 11:15:52,776 INFO c.m.m.b.SearchAdn [main] Palabra CCCC
+2022-02-06 11:15:52,777 INFO c.m.m.b.SearchAdn [main] Palabra GGGG
+2022-02-06 11:15:52,777 INFO c.m.m.b.SearchAdn [main] es mutante
+2022-02-06 11:15:52,806 INFO c.m.m.b.SearchAdn [main] Inicio 1.644164152805E12 segundos
+2022-02-06 11:15:52,806 INFO c.m.m.b.SearchAdn [main] Palabra AAAA
+2022-02-06 11:15:52,806 INFO c.m.m.b.SearchAdn [main] 0.001 segundos
+2022-02-06 11:15:52,807 INFO c.m.m.b.SearchAdn [main] no es mutante
+2022-02-06 18:24:59,640 INFO c.m.m.b.SearchAdn [main] la lista de palabras es: 
+2022-02-06 18:24:59,656 INFO c.m.m.b.SearchAdn [main] Inicio 1.644189899651E12 segundos
+2022-02-06 18:24:59,656 INFO c.m.m.b.SearchAdn [main] Palabra CCCC
+2022-02-06 18:24:59,656 INFO c.m.m.b.SearchAdn [main] Palabra GGGG
+2022-02-06 18:24:59,656 INFO c.m.m.b.SearchAdn [main] es mutante
+2022-02-06 18:24:59,697 INFO c.m.m.b.SearchAdn [main] la lista de palabras es: 
+2022-02-06 18:24:59,697 INFO c.m.m.b.SearchAdn [main] Inicio 1.644189899697E12 segundos
+2022-02-06 18:24:59,697 INFO c.m.m.b.SearchAdn [main] Palabra AAAA
+2022-02-06 18:24:59,697 INFO c.m.m.b.SearchAdn [main] 0.0 segundos
+2022-02-06 18:24:59,697 INFO c.m.m.b.SearchAdn [main] no es mutante
+2022-02-12 15:48:13,892 INFO c.m.m.b.SearchAdn [main] la lista de palabras es: 
+2022-02-12 15:48:13,906 INFO c.m.m.b.SearchAdn [main] Inicio 1.644698893902E12 segundos
+2022-02-12 15:48:13,906 INFO c.m.m.b.SearchAdn [main] Palabra CCCC
+2022-02-12 15:48:13,906 INFO c.m.m.b.SearchAdn [main] Palabra GGGG
+2022-02-12 15:48:13,907 INFO c.m.m.b.SearchAdn [main] es mutante
+2022-02-12 15:48:13,928 INFO c.m.m.b.SearchAdn [main] la lista de palabras es: 
+2022-02-12 15:48:13,928 INFO c.m.m.b.SearchAdn [main] Inicio 1.644698893928E12 segundos
+2022-02-12 15:48:13,928 INFO c.m.m.b.SearchAdn [main] Palabra AAAA
+2022-02-12 15:48:13,929 INFO c.m.m.b.SearchAdn [main] 0.001 segundos
+2022-02-12 15:48:13,929 INFO c.m.m.b.SearchAdn [main] no es mutante
+2022-02-12 15:48:40,309 INFO c.m.m.b.SearchAdn [main] la lista de palabras es: 
+2022-02-12 15:48:40,319 INFO c.m.m.b.SearchAdn [main] Inicio 1.644698920317E12 segundos
+2022-02-12 15:48:40,320 INFO c.m.m.b.SearchAdn [main] Palabra CCCC
+2022-02-12 15:48:40,320 INFO c.m.m.b.SearchAdn [main] Palabra GGGG
+2022-02-12 15:48:40,320 INFO c.m.m.b.SearchAdn [main] es mutante
+2022-02-12 15:48:40,340 INFO c.m.m.b.SearchAdn [main] la lista de palabras es: 
+2022-02-12 15:48:40,340 INFO c.m.m.b.SearchAdn [main] Inicio 1.64469892034E12 segundos
+2022-02-12 15:48:40,340 INFO c.m.m.b.SearchAdn [main] Palabra AAAA
+2022-02-12 15:48:40,341 INFO c.m.m.b.SearchAdn [main] 0.001 segundos
+2022-02-12 15:48:40,341 INFO c.m.m.b.SearchAdn [main] no es mutante

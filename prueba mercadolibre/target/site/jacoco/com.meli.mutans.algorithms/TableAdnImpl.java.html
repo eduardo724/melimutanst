@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>TableAdnImpl.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">mutans</a> &gt; <a href="index.source.html" class="el_package">com.meli.mutans.algorithms</a> &gt; <span class="el_source">TableAdnImpl.java</span></div><h1>TableAdnImpl.java</h1><pre class="source lang-java linenums">
+package com.meli.mutans.algorithms;
+
+import java.util.ArrayList;
+import java.util.List;
+
+/**
+ * Clase encargada de validar si existe o
+ * no una secuencia de palabras en el tablero
+ * de secuencias de adn
+ *
+ * @author eduardo guerere
+ */
+public class TableAdnImpl implements TableAdn {
+    // variable usada para listar todas las filas del tablero
+<span class="fc" id="L16">    private List&lt;String&gt; listRow = new ArrayList&lt;&gt;();</span>
+    // variable usada para listar todas las columnas del tablero
+<span class="fc" id="L18">    private List&lt;String&gt; listColumn = new ArrayList&lt;&gt;();</span>
+    // matriz de caracteres de la sopa de letras
+<span class="fc" id="L20">    private char tableAdn[][] = null;</span>
+
+
+    /**
+     * constructor de la clase la cual
+     * recibe la matriz de caracteres
+     * por parametro
+     *
+     * @param mat matriz de caracteres
+     */
+<span class="fc" id="L30">    public TableAdnImpl(char mat[][]) {</span>
+<span class="fc" id="L31">        tableAdn = mat;</span>
+<span class="fc" id="L32">        fillListByColumn();</span>
+<span class="fc" id="L33">        fillListByRow();</span>
+<span class="fc" id="L34">    }</span>
+
+    /**
+     * metodo encargado de llenar la lista de palabras de las filas
+     * de la matriz
+     */
+    public void fillListByRow() {
+
+<span class="fc bfc" id="L42" title="All 2 branches covered.">        for (int indice = 0; indice &lt; tableAdn.length; indice++) {</span>
+<span class="fc" id="L43">            listRow.add(String.valueOf(tableAdn[indice]));</span>
+        }
+<span class="fc" id="L45">    }</span>
+
+    /**
+     * metodo encargado de llenar la lista de palabras de las oclumnas
+     * de la matriz
+     */
+    public void fillListByColumn() {
+
+<span class="fc bfc" id="L53" title="All 2 branches covered.">        for (int row = 0; row &lt; tableAdn.length; row++) {</span>
+<span class="fc" id="L54">            String word = &quot;&quot;;</span>
+<span class="fc bfc" id="L55" title="All 2 branches covered.">            for (int column = 0; column &lt; tableAdn.length; column++) {</span>
+<span class="fc" id="L56">                word += tableAdn[column][row];</span>
+            }
+<span class="fc" id="L58">            listColumn.add(word);</span>
+        }
+<span class="fc" id="L60">    }</span>
+
+    /**
+     * metodo encargado de realizar la busqueda en la matriz de manera
+     * diagonal superior
+     *
+     * @param word es la palabra a buscar en las diagonales superiores de la matriz
+     * @return true si encuentra la palabra y false en caso de no conseguir la palabra
+     */
+    public boolean validateExistsDiagonalSup(String word) {
+
+<span class="fc" id="L71">        int rowAux = 0;</span>
+<span class="fc" id="L72">        int column = 0;</span>
+<span class="fc" id="L73">        String diagonal = &quot;&quot;;</span>
+<span class="pc bpc" id="L74" title="1 of 4 branches missed.">        for (int row = tableAdn.length - 1; row &gt;= 0 &amp;&amp; row &gt;= (word.length() - 1); row--) {</span>
+<span class="fc bfc" id="L75" title="All 4 branches covered.">            for (rowAux = row, column = 0, diagonal = &quot;&quot;; column &lt; tableAdn.length &amp;&amp; rowAux &gt;= 0; rowAux--, column++) {</span>
+<span class="fc" id="L76">                diagonal += tableAdn[rowAux][column];</span>
+            }
+
+<span class="fc bfc" id="L79" title="All 2 branches covered.">            if (diagonal.contains(word)) return true;</span>
+
+        }
+<span class="fc" id="L82">        return false;</span>
+    }
+
+    /**
+     * metodo encargado de realizar la busqueda en la matriz de manera
+     * diagonal inferior
+     *
+     * @param word es la palabra a buscar en las diagonales inferiores de la matriz
+     * @return true si encuentra la palabra y false en caso de no conseguir la palabra
+     */
+    public boolean validateExistsDiagonalInf(String word) {
+
+<span class="fc" id="L94">        int rowAux = 0;</span>
+<span class="fc" id="L95">        int column = 1;</span>
+<span class="fc" id="L96">        int columnAux = 0;</span>
+<span class="fc" id="L97">        String diagonal = word.concat(&quot;x&quot;);</span>
+
+<span class="pc bpc" id="L99" title="1 of 4 branches missed.">        for (int row = tableAdn.length - 1; row &gt;= 0 &amp;&amp; (diagonal.length() - 1) &gt; (word.length() - 1); ) {</span>
+<span class="fc" id="L100">            columnAux = column;</span>
+<span class="pc bpc" id="L101" title="1 of 4 branches missed.">            for (rowAux = row, diagonal = &quot;&quot;; columnAux &lt; tableAdn.length &amp;&amp; rowAux &gt;= 0; rowAux--, columnAux++) {</span>
+<span class="fc" id="L102">                diagonal += tableAdn[rowAux][columnAux];</span>
+            }
+
+<span class="fc" id="L105">            column++;</span>
+<span class="fc bfc" id="L106" title="All 2 branches covered.">            if (diagonal.contains(word)) return true;</span>
+        }
+<span class="fc" id="L108">        return false;</span>
+    }
+
+    /**
+     * metodo encargado de realizar la busqueda en la matriz de manera
+     * transversal inferior
+     *
+     * @param word es la palabra a buscar en las transversales de la matriz
+     * @return true si encuentra la palabra y false en caso de no conseguir la palabra
+     */
+    public boolean validateExistsTransversalInf(String word) {
+
+<span class="fc" id="L120">        int rowAux = 1;</span>
+<span class="fc" id="L121">        int column = 0;</span>
+<span class="fc" id="L122">        int columnAux = 0;</span>
+<span class="fc" id="L123">        String diagonal = word.concat(word);</span>
+<span class="fc" id="L124">        return searchTransversalinf(rowAux, diagonal, word, column, columnAux);</span>
+    }
+
+    /**
+     * metodo encargado de realizar la busqueda en la matriz de manera
+     * transversal superior
+     *
+     * @param word es la palabra a buscar en las transversales de la matriz
+     * @return true si encuentra la palabra y false en caso de no conseguir la palabra
+     */
+    public boolean validateExistsTransversalSup(String word) {
+
+<span class="fc" id="L136">        int rowAux = 0;</span>
+<span class="fc" id="L137">        int column = 1;</span>
+<span class="fc" id="L138">        int columnAux = 0;</span>
+<span class="fc" id="L139">        String diagonal = word.concat(word);</span>
+<span class="fc" id="L140">        return searchTransversal(rowAux, diagonal, word, column, columnAux);</span>
+    }
+
+    /**
+     * metodo que se encarga de buscar en una palabra en una matriz
+     * la busqueda la hace por filas, columnas, diagonales y transversles
+     *
+     * @param word palabra a buscar en la matriz de caracteres
+     * @return true si encuentra la palabra y false en caso de no conseguir la palabra
+     */
+    public boolean searchWord(String word) {
+
+<span class="fc bfc" id="L152" title="All 2 branches covered.">        if (existsWord(listRow, word))</span>
+<span class="fc" id="L153">            return true;</span>
+<span class="fc bfc" id="L154" title="All 2 branches covered.">        else if (existsWord(listColumn, word))</span>
+<span class="fc" id="L155">            return true;</span>
+<span class="fc bfc" id="L156" title="All 2 branches covered.">        else if (this.validateExistsDiagonalSup(word))</span>
+<span class="fc" id="L157">            return true;</span>
+<span class="fc bfc" id="L158" title="All 2 branches covered.">        else if (this.validateExistsDiagonalInf(word))</span>
+<span class="fc" id="L159">            return true;</span>
+<span class="fc bfc" id="L160" title="All 2 branches covered.">        else if (this.validateExistsTransversalInf(word))</span>
+<span class="fc" id="L161">            return true;</span>
+<span class="fc bfc" id="L162" title="All 2 branches covered.">        else if (this.validateExistsTransversalSup(word))</span>
+<span class="fc" id="L163">            return true;</span>
+<span class="fc" id="L164">        else return false;</span>
+    }
+
+    /**
+     * metodo que se encargar de buscar una palabra
+     * en la lista de palabras en este contexto
+     * la lista puede ser de columnas o de filas
+     *
+     * @param list lista de palabras de todas las filas o columnas de la matriz de adn
+     * @param word es la palabra que se va a buscar en la lista
+     * @return true si encontro la palabra, false si no la encuentra
+     */
+    public boolean existsWord(List&lt;String&gt; list, String word) {
+<span class="fc bfc" id="L177" title="All 2 branches covered.">        for (String column : list) {</span>
+<span class="fc bfc" id="L178" title="All 2 branches covered.">            if (column.contains(word))</span>
+<span class="fc" id="L179">                return true;</span>
+<span class="fc" id="L180">        }</span>
+<span class="fc" id="L181">        return false;</span>
+    }
+
+    /**
+     * Metodo encargado de hacer la busqueda en transversal inferior
+     *
+     * @param rowAux    variable auxiliar que se utilizar para recorrer las filas
+     * @param diagonal  representa la palabra de los caracteres leido en la transversal
+     * @param palabra   es la palabra que se va a buscar en la transversal
+     * @param column    se utiliza para saber desde que punto va a inicar la columna
+     * @param columnAux es una variable auxiliar de la columna que se utiliza para recorrer la matriz
+     * @return true si encontro la palabra, false si no la encuentra
+     */
+    public boolean searchTransversal(int rowAux, String diagonal, String palabra, int column, int columnAux) {
+<span class="pc bpc" id="L195" title="1 of 4 branches missed.">        for (int row = rowAux; row &gt;= 0 &amp;&amp; (diagonal.length() - 1) &gt; (palabra.length() - 1); column++) {</span>
+<span class="pc bpc" id="L196" title="1 of 4 branches missed.">            for (rowAux = row, columnAux = column, diagonal = &quot;&quot;; columnAux &lt; tableAdn.length &amp;&amp; rowAux &lt; tableAdn.length; rowAux++, columnAux++) {</span>
+<span class="fc" id="L197">                diagonal += tableAdn[rowAux][columnAux];</span>
+            }
+<span class="fc bfc" id="L199" title="All 2 branches covered.">            if (diagonal.contains(palabra)) return true;</span>
+        }
+<span class="fc" id="L201">        return false;</span>
+    }
+
+    /**
+     * Metodo encargado de hacer la busqueda en transversal inferior
+     *
+     * @param rowAux    variable auxiliar que se utilizar para recorrer las filas
+     * @param diagonal  representa la palabra de los caracteres leido en la transversal
+     * @param palabra   es la palabra que se va a buscar en la transversal
+     * @param column    se utiliza para saber desde que punto va a inicar la columna
+     * @param columnAux es una variable auxiliar de la columna que se utiliza para recorrer la matriz
+     * @return true si encontro la palabra, false si no la encuentra
+     */
+    public boolean searchTransversalinf(int rowAux, String diagonal, String palabra, int column, int columnAux) {
+<span class="pc bpc" id="L215" title="1 of 4 branches missed.">        for (int row = rowAux; row &gt;= 0 &amp;&amp; (diagonal.length() - 1) &gt; (palabra.length() - 1); row++) {</span>
+<span class="pc bpc" id="L216" title="1 of 4 branches missed.">            for (rowAux = row, columnAux = column, diagonal = &quot;&quot;; columnAux &lt; tableAdn.length &amp;&amp; rowAux &lt; tableAdn.length; rowAux++, columnAux++) {</span>
+<span class="fc" id="L217">                diagonal += tableAdn[rowAux][columnAux];</span>
+            }
+<span class="fc bfc" id="L219" title="All 2 branches covered.">            if (diagonal.contains(palabra)) return true;</span>
+        }
+<span class="fc" id="L221">        return false;</span>
+    }
+
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.2.201808211720</span></div></body></html>

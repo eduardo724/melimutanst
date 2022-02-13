@@ -1,0 +1,16 @@
+com\meli\service\dto\DnaDto.class
+com\meli\service\service\ServiceDna.class
+com\meli\service\routes\RoutesDna.class
+com\meli\service\iservice\IserviceDna.class
+com\meli\service\mapper\DnaMapper.class
+com\meli\service\controller\DnaController.class
+com\meli\service\exceptions\ExistsListDnaExceptions.class
+com\meli\service\repository\DnaRepository.class
+com\meli\service\config\CorsFilter.class
+com\meli\service\config\SwaggerConfiguration.class
+com\meli\service\exceptions\DnaNotNullExceptions.class
+com\meli\service\exceptions\EmptyListDnaExceptions.class
+com\meli\service\ServiceDnaApplications.class
+com\meli\service\validations\Validations.class
+com\meli\service\dto\StatsAdnDto.class
+com\meli\service\model\Dna.class

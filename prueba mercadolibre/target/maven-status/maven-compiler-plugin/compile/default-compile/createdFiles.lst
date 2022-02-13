@@ -1,0 +1,6 @@
+com\meli\mutans\Main.class
+com\meli\mutans\algorithms\TableAdnImpl.class
+com\meli\mutans\business\SearchAdn.class
+com\meli\mutans\algorithms\TableAdn.class
+com\meli\mutans\util\PropertiesMutans.class
+com\meli\mutans\util\Utils.class

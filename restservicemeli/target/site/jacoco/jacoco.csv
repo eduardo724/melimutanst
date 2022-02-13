@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+restservice,com.meli.service.service,ServiceDna,0,89,0,0,0,21,0,6,0,6
+restservice,com.meli.service,ServiceDnaApplications,0,8,0,0,0,3,0,2,0,2
+restservice,com.meli.service.controller,DnaController,12,82,0,2,3,19,0,5,0,4
+restservice,com.meli.service.validations,Validations,3,25,0,6,1,7,1,4,1,1

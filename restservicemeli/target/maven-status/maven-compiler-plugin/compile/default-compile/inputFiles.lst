@@ -1,0 +1,16 @@
+C:\Users\Developer\Desktop\respaldo\nube\proyecto restservice\restservicemeli\src\main\java\com\meli\service\service\ServiceDna.java
+C:\Users\Developer\Desktop\respaldo\nube\proyecto restservice\restservicemeli\src\main\java\com\meli\service\config\SwaggerConfiguration.java
+C:\Users\Developer\Desktop\respaldo\nube\proyecto restservice\restservicemeli\src\main\java\com\meli\service\iservice\IserviceDna.java
+C:\Users\Developer\Desktop\respaldo\nube\proyecto restservice\restservicemeli\src\main\java\com\meli\service\routes\RoutesDna.java
+C:\Users\Developer\Desktop\respaldo\nube\proyecto restservice\restservicemeli\src\main\java\com\meli\service\mapper\DnaMapper.java
+C:\Users\Developer\Desktop\respaldo\nube\proyecto restservice\restservicemeli\src\main\java\com\meli\service\dto\DnaDto.java
+C:\Users\Developer\Desktop\respaldo\nube\proyecto restservice\restservicemeli\src\main\java\com\meli\service\model\Dna.java
+C:\Users\Developer\Desktop\respaldo\nube\proyecto restservice\restservicemeli\src\main\java\com\meli\service\exceptions\ExistsListDnaExceptions.java
+C:\Users\Developer\Desktop\respaldo\nube\proyecto restservice\restservicemeli\src\main\java\com\meli\service\ServiceDnaApplications.java
+C:\Users\Developer\Desktop\respaldo\nube\proyecto restservice\restservicemeli\src\main\java\com\meli\service\dto\StatsAdnDto.java
+C:\Users\Developer\Desktop\respaldo\nube\proyecto restservice\restservicemeli\src\main\java\com\meli\service\exceptions\EmptyListDnaExceptions.java
+C:\Users\Developer\Desktop\respaldo\nube\proyecto restservice\restservicemeli\src\main\java\com\meli\service\repository\DnaRepository.java
+C:\Users\Developer\Desktop\respaldo\nube\proyecto restservice\restservicemeli\src\main\java\com\meli\service\validations\Validations.java
+C:\Users\Developer\Desktop\respaldo\nube\proyecto restservice\restservicemeli\src\main\java\com\meli\service\config\CorsFilter.java
+C:\Users\Developer\Desktop\respaldo\nube\proyecto restservice\restservicemeli\src\main\java\com\meli\service\controller\DnaController.java
+C:\Users\Developer\Desktop\respaldo\nube\proyecto restservice\restservicemeli\src\main\java\com\meli\service\exceptions\DnaNotNullExceptions.java

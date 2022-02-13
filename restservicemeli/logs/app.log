@@ -1,0 +1,331 @@
+2020-04-11 20:26:34,123 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 5432 (started by Developer in C:\Users\Developer\Documents\valid\proyecto valid STS eclipse\valid)
+2020-04-11 20:26:34,128 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2020-04-11 20:26:34,831 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 0.759 seconds (JVM running for 188.096)
+2020-04-11 20:29:37,357 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 13548 (started by Developer in C:\Users\Developer\Documents\valid\proyecto valid STS eclipse\valid)
+2020-04-11 20:29:37,366 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2020-04-11 20:29:40,092 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 3.03 seconds (JVM running for 4.205)
+2020-04-11 20:30:09,587 INFO c.v.t.c.ClientController [http-nio-8080-exec-1] into method addClient
+2020-04-11 20:30:09,642 INFO c.v.t.c.ClientController [http-nio-8080-exec-1] after save client 
+2022-02-06 15:33:05,863 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 27348 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 15:33:05,871 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 15:33:08,423 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 2.896 seconds (JVM running for 4.884)
+2022-02-06 15:34:34,759 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 1696 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 15:34:34,767 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 15:34:37,194 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 2.781 seconds (JVM running for 4.445)
+2022-02-06 15:35:26,599 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 10520 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 15:35:26,609 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 15:35:29,661 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 3.536 seconds (JVM running for 5.648)
+2022-02-06 15:43:08,916 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 19768 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 15:43:08,929 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 15:43:11,805 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 3.295 seconds (JVM running for 5.147)
+2022-02-06 15:45:05,237 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 20836 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 15:45:05,247 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 15:45:07,767 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 2.915 seconds (JVM running for 4.511)
+2022-02-06 15:48:10,167 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 11772 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 15:48:10,176 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 15:48:12,616 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 2.808 seconds (JVM running for 4.437)
+2022-02-06 15:49:39,363 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 12488 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 15:49:39,371 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 15:49:42,070 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 3.12 seconds (JVM running for 4.782)
+2022-02-06 15:50:20,963 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 13928 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 15:50:20,974 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 15:50:23,432 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 2.83 seconds (JVM running for 4.433)
+2022-02-06 15:51:28,202 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 6980 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 15:51:28,214 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 15:51:30,770 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 2.937 seconds (JVM running for 4.578)
+2022-02-06 15:53:18,423 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 24116 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 15:53:18,433 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 15:53:20,856 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 2.788 seconds (JVM running for 4.433)
+2022-02-06 16:07:47,952 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 12916 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 16:07:47,963 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 16:07:50,525 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 2.94 seconds (JVM running for 4.611)
+2022-02-06 16:09:18,500 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 5908 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 16:09:18,509 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 16:09:20,998 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 2.871 seconds (JVM running for 4.536)
+2022-02-06 16:09:44,771 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 28900 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 16:09:44,780 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 16:09:47,487 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 3.1 seconds (JVM running for 4.882)
+2022-02-06 16:43:02,996 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 29228 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 16:43:03,010 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 16:43:06,331 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 3.843 seconds (JVM running for 6.141)
+2022-02-06 16:45:01,488 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 27388 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 16:45:01,497 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 16:45:04,112 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 3.021 seconds (JVM running for 4.829)
+2022-02-06 16:46:13,055 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 20412 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 16:46:13,065 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 16:46:15,531 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 2.829 seconds (JVM running for 4.449)
+2022-02-06 16:48:21,853 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 10736 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 16:48:21,862 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 16:48:24,287 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 2.813 seconds (JVM running for 4.947)
+2022-02-06 16:57:53,399 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 15284 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 16:57:53,411 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 16:57:56,364 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 3.415 seconds (JVM running for 5.711)
+2022-02-06 17:28:51,569 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 23124 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 17:28:51,578 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 17:28:54,200 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 2.986 seconds (JVM running for 4.62)
+2022-02-06 17:32:22,194 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 16416 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 17:32:22,202 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 17:32:24,708 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 2.895 seconds (JVM running for 4.572)
+2022-02-06 17:35:35,736 ERROR c.v.t.c.DnaController [http-nio-8085-exec-5] error addClient
+java.lang.NullPointerException: null
+	at com.meli.mutans.util.Utils.convertArrayTwoDimensions(Utils.java:19) ~[mutans-1.0-SNAPSHOT.jar:?]
+	at com.meli.mutans.business.SearchAdn.isMutant(SearchAdn.java:32) ~[mutans-1.0-SNAPSHOT.jar:?]
+	at isMutant(ServiceDna.java:46) ~[classes/:?]
+	at DnaController.isMutant(DnaController.java:35) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_152]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_152]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_152]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_152]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:888) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-embed-websocket-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at CorsFilter.doFilter(CorsFilter.java:31) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_152]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_152]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_152]
+2022-02-06 17:38:55,832 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 25188 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 17:38:55,841 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 17:38:58,345 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 2.867 seconds (JVM running for 4.88)
+2022-02-06 17:39:29,627 ERROR c.v.t.c.DnaController [http-nio-8085-exec-2] error addClient
+java.lang.NullPointerException: null
+	at com.meli.mutans.util.Utils.convertArrayTwoDimensions(Utils.java:19) ~[mutans-1.0-SNAPSHOT.jar:?]
+	at com.meli.mutans.business.SearchAdn.isMutant(SearchAdn.java:32) ~[mutans-1.0-SNAPSHOT.jar:?]
+	at isMutant(ServiceDna.java:46) ~[classes/:?]
+	at DnaController.isMutant(DnaController.java:35) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_152]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_152]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_152]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_152]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:888) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-embed-websocket-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at CorsFilter.doFilter(CorsFilter.java:31) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_152]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_152]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_152]
+2022-02-06 17:39:59,734 ERROR c.v.t.c.DnaController [http-nio-8085-exec-4] error addClient
+java.lang.NullPointerException: null
+	at com.meli.mutans.util.Utils.convertArrayTwoDimensions(Utils.java:19) ~[mutans-1.0-SNAPSHOT.jar:?]
+	at com.meli.mutans.business.SearchAdn.isMutant(SearchAdn.java:32) ~[mutans-1.0-SNAPSHOT.jar:?]
+	at isMutant(ServiceDna.java:46) ~[classes/:?]
+	at DnaController.isMutant(DnaController.java:35) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_152]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_152]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_152]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_152]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:888) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-embed-websocket-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at CorsFilter.doFilter(CorsFilter.java:31) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_152]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_152]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_152]
+2022-02-06 17:42:20,695 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 28688 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 17:42:20,704 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 17:42:23,145 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 2.805 seconds (JVM running for 4.878)
+2022-02-06 17:42:28,202 ERROR c.v.t.c.DnaController [http-nio-8085-exec-1] error addClient
+java.lang.NullPointerException: null
+	at com.meli.mutans.util.Utils.convertArrayTwoDimensions(Utils.java:19) ~[mutans-1.0-SNAPSHOT.jar:?]
+	at com.meli.mutans.business.SearchAdn.isMutant(SearchAdn.java:32) ~[mutans-1.0-SNAPSHOT.jar:?]
+	at isMutant(ServiceDna.java:46) ~[classes/:?]
+	at DnaController.isMutant(DnaController.java:35) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_152]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_152]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_152]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_152]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:888) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) [spring-webmvc-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-embed-websocket-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at CorsFilter.doFilter(CorsFilter.java:31) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.2.3.RELEASE.jar:5.2.3.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_152]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_152]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.30.jar:9.0.30]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_152]
+2022-02-06 17:45:34,791 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 2428 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 17:45:34,801 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 17:45:37,255 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 2.808 seconds (JVM running for 4.653)
+2022-02-06 17:48:01,036 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 28612 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 17:48:01,047 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 17:48:03,638 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 2.97 seconds (JVM running for 4.664)
+2022-02-06 17:57:26,094 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 29472 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 17:57:26,102 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 17:57:28,709 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 2.989 seconds (JVM running for 4.663)
+2022-02-06 18:17:01,371 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 3484 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 18:17:01,390 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 18:17:04,844 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 3.781 seconds (JVM running for 6.263)
+2022-02-06 18:27:11,233 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 3484 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 18:27:11,234 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 18:27:12,121 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 0.997 seconds (JVM running for 613.539)
+2022-02-06 18:27:15,194 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 3484 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 18:27:15,195 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 18:27:16,090 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 0.957 seconds (JVM running for 617.508)
+2022-02-06 18:27:21,199 INFO c.v.t.ValidApplications [restartedMain] Starting ValidApplications on LAPTOP-6Q5PSJDL with PID 3484 (started by Developer in C:\Users\Developer\Desktop\respaldo\proyecto valid STS eclipse\restservicemeli)
+2022-02-06 18:27:21,200 INFO c.v.t.ValidApplications [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-06 18:27:22,311 INFO c.v.t.ValidApplications [restartedMain] Started ValidApplications in 1.18 seconds (JVM running for 623.729)
