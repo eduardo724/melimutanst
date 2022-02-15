@@ -66,7 +66,7 @@ En el mismo se puede observar las siguientes propiedades:
 mvn clean install package 
 
 - Tecnologias Usadas: El proyecto esta hecho con maven, spring boot, java 8, spring data mongodb, Base de datos NoSql MongoDB, lombok,
-Junit, Mockito, jacoco, se aplico el patron modelo, vista, controlador, se utilizo principios SOLID, inyección de dependencias 
+Junit, Mockito, jacoco, swagger se aplico el patron modelo, vista, controlador, se utilizo principios SOLID, inyección de dependencias 
 a través de las anotaciones de spring.
 
 
@@ -82,23 +82,27 @@ restservicemeli\target\site\jacoco\index.html
 
 LOCALMENTE:
 - Para ver la documentacion de la api con swagger-ui
-  http://localhost:8085/swagger-ui.html
+  - http://localhost:8085/swagger-ui.html
 
 
 - Endpoints de los servicios de Spring Boot 
-  http://localhost:8085/v1/meli/mutant/
-  http://localhost:8085/v1/meli/stats/
+  - http://localhost:8085/v1/meli/mutant/
+  - http://localhost:8085/v1/meli/stats/
+  
+- Para levantar localmente el servicio realizado en springboot
+  Se ejecuta el siguiente comando en la consola de windows o linux:
+  - java -jar test-1.0.0-SNAPSHOT.jar
 
 
 REMOTAMENTE:
 
 - Para ver la documentacion de la api con swagger-ui en heroku
-  https://meli-test-boot.herokuapp.com/swagger-ui.html
+  - https://meli-test-boot.herokuapp.com/swagger-ui.html
 
 
 - endpoints de los servicios de Spring Boot en heroku
-  https://meli-test-boot.herokuapp.com/v1/meli/mutant/
-  https://meli-test-boot.herokuapp.com/v1/meli/stats/
+  - https://meli-test-boot.herokuapp.com/v1/meli/mutant/
+  - https://meli-test-boot.herokuapp.com/v1/meli/stats/
 
 
 
