@@ -105,4 +105,5 @@ REMOTAMENTE:
   - https://meli-test-boot.herokuapp.com/v1/meli/stats/
 
 
-
+- IMPORTANTE: Se debe tener en cuenta que se tiene que tener configurado el acceso al servidor de base de datos
+  mongodb para probarlo localmente o remotamente, esta url se encuentra en el archivo application.properties
